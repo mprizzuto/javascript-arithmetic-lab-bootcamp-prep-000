@@ -29,7 +29,7 @@ function inc(n){
     return  parseInt(n, 10);
    }
    
-   preserveDecimal() {
-     
+  function preserveDecimal(n) {
+     return parseFloat(n);
    }
   
