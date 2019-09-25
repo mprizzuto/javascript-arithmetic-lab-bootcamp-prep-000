@@ -29,5 +29,7 @@ function inc(n){
     return  parseInt(n, 10);
    }
    
-   preserveDecimal
+   preserveDecimal() {
+     
+   }
   
